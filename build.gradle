@@ -28,7 +28,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = "https://maven.pkg.github.com/ThiliniLFernando/JavaLib"
+            url = "https://maven.pkg.github.com/ThiliniLFernando/gradle-publish"
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
