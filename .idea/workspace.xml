@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cac35f2-9aa1-439e-8bbf-044bd02b2b24" name="Changes" comment="update build gradle">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/publish-java-gradle.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5cac35f2-9aa1-439e-8bbf-044bd02b2b24" name="Changes" comment="create publish-java-gradle.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,12 +221,20 @@
       <option name="project" value="LOCAL" />
       <updated>1682772620582</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create publish-java-gradle.yml">
+      <created>1682773029675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682773029675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="update build gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="update build gradle" />
+    <MESSAGE value="create publish-java-gradle.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="create publish-java-gradle.yml" />
   </component>
 </project>
